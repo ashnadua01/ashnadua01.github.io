@@ -740,7 +740,7 @@ button {
     letter-spacing: 2px;
 
     padding: 9px 20px;
-    border: 1px solid var(--grey);
+    border: 1px solid var(--dark);
     border-radius: 1000px;
     background: transparent;
     transition: .3s;
