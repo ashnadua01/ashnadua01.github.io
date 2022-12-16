@@ -887,3 +887,7 @@ button:focus+.design-container {
   padding: 0;
   box-sizing: border-box;
 }
+
+tr::after {
+    opacity: 1;
+}
