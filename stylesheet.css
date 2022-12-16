@@ -735,7 +735,7 @@ li:not(:last-child)::after {
 button {
     font-family: inherit;
     font-weight: bold;
-    color: var(--dark);
+    color: var(--white-1);
 
     letter-spacing: 2px;
 
