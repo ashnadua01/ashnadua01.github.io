@@ -880,6 +880,8 @@ button:focus+.design-container {
 .changeBG {
     background-image: linear-gradient(to bottom, #ee9435, #F8F7F7);
     background-attachment: fixed;
+    width: 100%;
+    height: auto;
 }
 
 *,
