@@ -10,6 +10,8 @@ body {
     /* background-image: linear-gradient(to bottom, #ee9435, #F8F7F7, #F8F7F7, #F8F7F7);
     background-attachment: fixed; */
     background-color: #F8F7F7;
+    max-width: 100%;
+    height:auto;
 }
 
 table {
